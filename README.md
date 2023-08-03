@@ -1,1 +1,1 @@
-# odin-recipes
+This is my first project as part of The Odin Project Curriculum. It demonstrates a basic understanding of HTML and CSS.
