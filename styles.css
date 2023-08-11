@@ -1,0 +1,32 @@
+h1 {
+    font-family: "Open Sans", Arial, Helvetica, sans-serif;
+    margin: 32px;
+    font-size: 40px;
+}
+
+h2 {
+    font-family: "Open Sans", Arial, Helvetica, sans-serif;
+    margin: 32px;
+    font-size: 24px;  
+}
+
+p {
+    font-family: "Open Sans", Arial, Helvetica, sans-serif;
+    margin: 32px;
+    font-size: 16px;
+}
+
+li {
+    font-family: "Open Sans", Arial, Helvetica, sans-serif;
+    padding: 8px;
+    font-size: 16px;
+    margin-left: 32px;
+}
+
+img {
+    margin-left: 32px;
+}
+
+* {
+    background-color: lightgray;
+}
